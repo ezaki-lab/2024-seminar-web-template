@@ -9,8 +9,6 @@ export default function Page() {
       <p className="mb-10">
         一日の記録を書きましょう
       </p>
-
-      {/* 以下からコードを追加 */}
     </div>
   );
 }

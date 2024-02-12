@@ -33,8 +33,6 @@ export default function Page() {
           <img src="programmer.png" alt="担当者" />
         </div>
       </div>
-
-      {/* 以下からコードを追加 */}
     </div>
   );
 }
