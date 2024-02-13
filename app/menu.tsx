@@ -7,7 +7,7 @@ export default function Menu() {
     <ul className="
       w-full h-16 bg-cyan-100
       flex flex-row items-center justify-evenly
-      fixed bottom-0
+      fixed bottom-0 z-10
     ">
       <li>
         <Link href="/">
